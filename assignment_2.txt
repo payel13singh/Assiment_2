@@ -1,0 +1,68 @@
+				 JAVA ASSIGNMENT-1
+Ques. 1. When was java develope and who is the inventor of java? Why we use java for programming?
+Ans=>When was java develope[1995]
+     who is the inventor of java?[James Gosling]
+     *.Why we use java for programming?
+    i.java mobile Application
+    ii.Android Apps
+    iii.Desktop Application
+    iv.Game Development
+    v.Web Application
+Ques. 2. What are the features of java.
+ans=> i.Simple
+    ii.Platform-independent
+    iii.Secured
+    iv.Multithreaded
+    v.High-performance
+Ques. 3. what is JDK, JRE, JVM?
+ ans=>i.JDK=>java development kit provide
+       all tools work with java language 
+ ii.JRE=>java run time environment provide
+         environment to execute the java 
+         program
+iii.JVM=>java virtual machine it is a software
+         to execute java byte code
+Ques. 4. what is the structure of java program. write a program to print hello world.
+ ans=>structure of java:
+public class class_name{
+public static void main(String[]args){
+System.out.println("Hello world");
+}
+}
+
+Ques. 5. Define Variables in java. Explain different scope of variable.
+ ans=>*.Variables:[A variable is holds the value and assigned with a data type]
+      *.Explain different scope of variable:
+      3 type scope of variable
+      i.local variable:[inside the main method but out the the class] 
+     ii.static variable:[inside the class but out side main method and use static keyword] 
+    iii.instance variable:[inside class but out side main method access the create class_name object] 
+
+Ques. 6. Define data types in java.
+ans=> 2 type of data types
+      i.premitive:[ primitive data type is a predefine in java language]
+ example:Integer[4 byte]=>byte[1 byte]=>short[2 byte]=>int[4 byte]=>long[8 byte]
+      Float[4 byte]=>float[4 byte]=>double[8 byte] 
+      character[2 byte]=>char[2  byte]
+      Boolean[1 byte]=>boolean[1 byte]   
+
+    ii.non-premitive data types.
+      non-premitive data type is user define in java language
+     example:class,interface,String,Enum 
+
+Ques. 7. What is type casting in java?
+ans=>type casting is convert one data type to another data type
+
+Ques. 8. Write a program to add two number by taking input from user.
+Ques. 9. Define operator and its type?
+ans=>opration between two oprent its called operator
+ example:a+b
+        A and B both oprent
+     4 type of operator:
+     1.Arithmetic oprators[+,-,*,/,%]
+     2.Assignment oprators[=,++,--]
+     3.comparison oprators or relational oprater[==,>,>=,<,<=,!=]  
+     4.logical oprators[&& || !=]
+       &&[And oprators match both condition]
+Ques. 10. Write a program individually to perform operators operation.
+
